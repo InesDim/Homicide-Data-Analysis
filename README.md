@@ -1,4 +1,5 @@
 # Homicide Data Analysis Application
+<img width="1212" alt="Screenshot 2024-12-30 at 22 33 17" src="https://github.com/user-attachments/assets/0da049de-fa57-4f5c-aced-22efb0fe6426" />
 
 ## Description
 This Shiny web application provides an interactive platform for exploring and analyzing homicide data. Users can visualize trends, filter data by various criteria, and gain insights into homicide patterns over time.
