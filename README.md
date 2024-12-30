@@ -16,21 +16,22 @@ shiny
 dplyr
 ggplot2
 [Additional packages as required by the app]
-Installation
 
-## Clone the repository:
+## Installation
+Clone the repository:
 git clone https://github.com/inesdimassi/homicide-app.git
 cd homicide-app
 Install the required packages:
 install.packages(c("shiny", "dplyr", "ggplot2", [Additional packages]))
-Usage
 
-## Run the Shiny app:
+## Usage
+Run the Shiny app:
 library(shiny)
 runApp("path_to_app_directory")
 Access the app: Once the app is running, navigate to http://localhost:3838 in your web browser to interact with the application.
-Contributing
 Or just click on this : https://inesdimassi.shinyapps.io/Homicide/
+
+## Contributing
 Contributions are welcome! Please fork the repository and create a pull request with your changes. Ensure that your code adheres to the project's coding standards and includes appropriate documentation.
 
 ## Acknowledgments
